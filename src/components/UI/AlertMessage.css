@@ -1,0 +1,8 @@
+.alert {
+    position:absolute;
+    padding: 1rem;
+    background-color: #f8dfff;
+    text-align: center;
+    height: 10rem;
+    width: 10rem;
+  }
